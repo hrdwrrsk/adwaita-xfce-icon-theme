@@ -1,0 +1,20 @@
+[Icon Theme]
+Name=Adwaita-Xfce-Panel
+Comment=Standard panel icons for Adwaita-Xfce.
+Example=folder
+Inherits=Adwaita-Xfce,Adwaita,hicolor
+
+Directories=16x16/panel,22x22/panel,24x24/panel
+
+[16x16/panel]
+Size=16
+Type=Fixed
+
+[22x22/panel]
+Size=22
+Type=Fixed
+
+[24x24/panel]
+Size=24
+Type=Fixed
+
